@@ -1,0 +1,23 @@
+_repo: Sir-Francis-Drake-s-Famous-Voyage-Round-the-World_2991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pretty, Francis
+    gutenberg_agent_id: '1078'
+    url: http://www.gutenberg.org/2009/agents/1078
+description: ''
+gutenberg_issued: '2006-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+- GITenberg
+title: Sir Francis Drake's Famous Voyage Round the World
+url: http://www.gutenberg.org/ebooks/2991
